@@ -61,9 +61,11 @@ int main(int argc, char *argv[]) {
         perror("Error opening log file");
         exit(1);
     }
-
+    
     fprintf(log_file, "\n--- SYN Flood Simulation Started at %s ---\n", __TIME__);
 
+    double time_start = __TIME__;
+    
     int s = socket(PF_INET, SOCK_RAW, IPPROTO_TCP);
     if (s < 0) {
         perror("Socket creation failed");
@@ -139,7 +141,7 @@ int main(int argc, char *argv[]) {
             perror("sendto failed");
         } else {
             // Log sent packet details
-            fprintf(log_file, "Packet %d sent from %s, SEQ: %u\n", i + 1, src_ip, tcph->seq);
+            fprintf(log_file, "SEQ = %d TTL[%f]\n", i + 1, __TIME__ - time_start);
             printf("Packet %d sent from %s\n", i + 1, src_ip);
         }
 
