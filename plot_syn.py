@@ -4,10 +4,11 @@ import matplotlib.pyplot as plt
 from matplotlib.ticker import ScalarFormatter
 import pandas as pd
 
+
 # Function to parse the syn_results files
 def parse_syn_results(filename):
     packet_times = []
-    
+
     with open(filename, 'r') as file:
         for line in file:
             # Extract values using regex
@@ -15,19 +16,20 @@ def parse_syn_results(filename):
             if match:
                 seq_num = int(match.group(1))
                 time_taken = float(match.group(2))
-                
+
                 # For the first packet, we don't have a previous to calculate time difference
                 if seq_num == 1:
                     continue
-                    
+
                 # Calculate time needed to send this packet
                 packet_times.append(time_taken / seq_num)  # Average time per packet
-    
+
     return packet_times
 
+
 # Parse data files
-c_packet_times = parse_syn_results('syn_results_c')
-python_packet_times = parse_syn_results('syn_results_p')
+c_packet_times = parse_syn_results('syn_results_c.txt')
+python_packet_times = parse_syn_results('syn_results_p.txt')
 
 # Calculate statistics
 c_avg = np.mean(c_packet_times)
@@ -78,21 +80,23 @@ plt.gca().yaxis.set_major_formatter(ScalarFormatter())
 plt.tight_layout()
 plt.savefig('Syn_pkts_comparison.png')
 
+
 # Additional analysis - Create percentile table for both implementations
 def create_percentile_table(c_times, py_times):
     percentiles = [10, 25, 50, 75, 90, 95, 99]
     c_percentiles = np.percentile(c_times, percentiles)
     py_percentiles = np.percentile(py_times, percentiles)
-    
+
     data = {
         'Percentile': percentiles,
         'C (seconds)': c_percentiles,
         'Python (seconds)': py_percentiles,
         'Difference (Python/C)': py_percentiles / c_percentiles
     }
-    
+
     df = pd.DataFrame(data)
     return df
+
 
 percentile_table = create_percentile_table(c_packet_times, python_packet_times)
 print("\nPercentile Analysis:")
