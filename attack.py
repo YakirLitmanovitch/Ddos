@@ -6,7 +6,7 @@ import datetime
 from scapy.layers.inet import IP, TCP
 
 
-def syn_flood(target_ip, target_port, packets_per_batch=10, batches=2, log_file = "syns_results_p.txt"):
+def syn_flood(target_ip, target_port, packets_per_batch=10, batches=2, log_file = "syn_results_p.txt"):
     with open(log_file, "a") as log:
         log.write(f"\n\n--- SYN Flood Simulation Started at {time.time()} ---\n")
         total_packets_sent = 0
