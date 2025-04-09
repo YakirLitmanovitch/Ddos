@@ -57,7 +57,7 @@ int main(int argc, char *argv[]) {
     srand(time(NULL));
 
     // Open log file
-    FILE *log_file = fopen("syn_flood_log.txt", "a");
+    FILE *log_file = fopen("syn_results_c.txt", "a");
     if (!log_file) {
         perror("Error opening log file");
         exit(1);
