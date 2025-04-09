@@ -18,7 +18,7 @@ def ping_ip(ip_address, index, log_file = "pings_result_p.txt"):
     # Write results to log file
     with open(log_file, "a") as f:
         status = "SUCCESS" if ping_result.returncode == 0 else "FAILED"
-        f.write(f"SEQ = {index} TTL[{datetime.fromtimestamp(timestamp)}]\n")
+        f.write(f"SEQ = {index} [{datetime.datetime.fromtimestamp(timestamp)}] STATUS: {status}\n")
 
         # If you want to include the actual ping output
         if ping_result.returncode == 0:
