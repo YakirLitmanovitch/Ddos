@@ -32,7 +32,7 @@ def syn_flood(target_ip, target_port, packets_per_batch=10000, batches=100, log_
 # Example usage (USE ON TEST ENVIRONMENT ONLY)
 # syn_flood("192.168.1.100", 80)
 def main():
-    syn_flood("192.114.52.11", 40000)
+    syn_flood("192.168.1.225", 40000)
 
 if __name__ == "__main__":
     main()
