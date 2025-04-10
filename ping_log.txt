@@ -1,0 +1,712 @@
+SEQ = 1 TIME[0.004s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.11 ms
+SEQ = 2 TIME[5.009s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.66 ms
+SEQ = 3 TIME[9.445s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=2.47 ms
+SEQ = 4 TIME[14.456s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.74 ms
+SEQ = 5 TIME[19.464s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.23 ms
+SEQ = 6 TIME[24.477s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.993 ms
+SEQ = 7 TIME[29.491s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=2.85 ms
+SEQ = 8 TIME[34.500s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.73 ms
+SEQ = 9 TIME[38.937s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=2.07 ms
+SEQ = 10 TIME[43.941s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.744 ms
+SEQ = 11 TIME[48.951s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.987 ms
+SEQ = 12 TIME[53.959s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.17 ms
+SEQ = 13 TIME[58.967s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.18 ms
+SEQ = 14 TIME[63.974s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.59 ms
+SEQ = 15 TIME[68.978s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.38 ms
+SEQ = 16 TIME[73.440s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=3.12 ms
+SEQ = 17 TIME[78.450s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.66 ms
+SEQ = 18 TIME[83.462s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.17 ms
+SEQ = 19 TIME[88.468s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.38 ms
+SEQ = 20 TIME[93.479s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.29 ms
+SEQ = 21 TIME[98.489s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.960 ms
+SEQ = 22 TIME[102.877s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.708 ms
+SEQ = 23 TIME[107.885s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.638 ms
+SEQ = 24 TIME[112.888s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.22 ms
+SEQ = 25 TIME[117.893s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.66 ms
+SEQ = 26 TIME[122.904s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.28 ms
+SEQ = 27 TIME[127.914s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.20 ms
+SEQ = 28 TIME[132.445s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.11 ms
+SEQ = 29 TIME[137.451s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.960 ms
+SEQ = 30 TIME[142.457s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.27 ms
+SEQ = 31 TIME[147.470s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.51 ms
+SEQ = 32 TIME[152.480s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.34 ms
+SEQ = 33 TIME[157.490s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.02 ms
+SEQ = 34 TIME[162.497s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.57 ms
+SEQ = 35 TIME[166.960s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.47 ms
+SEQ = 36 TIME[171.966s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.53 ms
+SEQ = 37 TIME[176.977s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.780 ms
+SEQ = 38 TIME[181.989s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=3.04 ms
+SEQ = 39 TIME[186.997s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.12 ms
+SEQ = 40 TIME[192.002s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.957 ms
+SEQ = 41 TIME[196.463s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.962 ms
+SEQ = 42 TIME[201.474s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.27 ms
+SEQ = 43 TIME[206.483s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.396 ms
+SEQ = 44 TIME[211.493s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.767 ms
+SEQ = 45 TIME[216.503s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=3.72 ms
+SEQ = 46 TIME[221.508s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.697 ms
+SEQ = 47 TIME[226.513s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.920 ms
+SEQ = 48 TIME[230.986s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.927 ms
+SEQ = 49 TIME[235.993s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.881 ms
+SEQ = 50 TIME[241.001s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.05 ms
+SEQ = 51 TIME[246.006s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.18 ms
+SEQ = 52 TIME[251.010s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.05 ms
+SEQ = 53 TIME[256.022s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.974 ms
+SEQ = 54 TIME[261.032s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.28 ms
+SEQ = 55 TIME[266.041s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=3.20 ms
+SEQ = 56 TIME[271.047s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.09 ms
+SEQ = 57 TIME[275.288s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.00 ms
+SEQ = 58 TIME[280.291s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.844 ms
+SEQ = 59 TIME[285.303s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.66 ms
+SEQ = 60 TIME[290.314s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.12 ms
+SEQ = 61 TIME[295.326s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=5.77 ms
+SEQ = 62 TIME[300.331s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.842 ms
+SEQ = 63 TIME[305.342s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.22 ms
+SEQ = 64 TIME[309.810s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.741 ms
+SEQ = 65 TIME[314.824s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.944 ms
+SEQ = 66 TIME[319.852s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.17 ms
+SEQ = 67 TIME[324.861s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=2.97 ms
+SEQ = 68 TIME[329.867s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.06 ms
+SEQ = 69 TIME[334.870s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.858 ms
+SEQ = 70 TIME[339.287s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.68 ms
+SEQ = 71 TIME[344.293s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.740 ms
+SEQ = 72 TIME[349.307s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=2.14 ms
+SEQ = 73 TIME[354.433s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.34 ms
+SEQ = 74 TIME[359.478s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.885 ms
+SEQ = 75 TIME[364.535s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.723 ms
+SEQ = 76 TIME[369.580s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.601 ms
+SEQ = 77 TIME[374.034s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.20 ms
+SEQ = 78 TIME[379.078s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.898 ms
+SEQ = 79 TIME[384.085s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.04 ms
+SEQ = 80 TIME[389.092s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.813 ms
+SEQ = 81 TIME[394.096s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.865 ms
+SEQ = 82 TIME[399.110s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=3.01 ms
+SEQ = 83 TIME[403.584s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.794 ms
+SEQ = 84 TIME[408.594s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.996 ms
+SEQ = 85 TIME[413.604s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.37 ms
+SEQ = 86 TIME[418.611s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.883 ms
+SEQ = 87 TIME[423.618s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.904 ms
+SEQ = 88 TIME[428.623s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.738 ms
+SEQ = 89 TIME[433.135s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=46.4 ms
+SEQ = 90 TIME[438.140s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=2.30 ms
+SEQ = 91 TIME[443.148s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.04 ms
+SEQ = 92 TIME[448.154s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.860 ms
+SEQ = 93 TIME[453.158s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.926 ms
+SEQ = 94 TIME[458.169s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.16 ms
+SEQ = 95 TIME[463.184s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.762 ms
+SEQ = 96 TIME[467.657s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.12 ms
+SEQ = 97 TIME[472.672s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.829 ms
+SEQ = 98 TIME[477.687s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.16 ms
+SEQ = 99 TIME[482.767s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.985 ms
+SEQ = 100 TIME[487.782s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.02 ms
+SEQ = 101 TIME[492.792s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.656 ms
+SEQ = 102 TIME[497.262s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.810 ms
+SEQ = 103 TIME[502.274s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.60 ms
+SEQ = 104 TIME[507.286s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.76 ms
+SEQ = 105 TIME[512.295s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.557 ms
+SEQ = 106 TIME[517.304s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.07 ms
+SEQ = 107 TIME[522.313s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.890 ms
+SEQ = 108 TIME[527.319s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.728 ms
+SEQ = 109 TIME[531.781s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.901 ms
+SEQ = 110 TIME[536.785s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.02 ms
+SEQ = 111 TIME[541.807s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=2.16 ms
+SEQ = 112 TIME[546.825s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.410 ms
+SEQ = 113 TIME[551.843s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.881 ms
+SEQ = 114 TIME[556.859s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.11 ms
+SEQ = 115 TIME[561.321s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.998 ms
+SEQ = 116 TIME[566.333s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.878 ms
+SEQ = 117 TIME[571.336s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.908 ms
+SEQ = 118 TIME[576.344s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.09 ms
+SEQ = 119 TIME[581.348s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.974 ms
+SEQ = 120 TIME[586.352s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.899 ms
+SEQ = 121 TIME[591.364s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.740 ms
+SEQ = 122 TIME[595.822s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.801 ms
+SEQ = 123 TIME[600.825s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.920 ms
+SEQ = 124 TIME[605.840s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.55 ms
+SEQ = 125 TIME[610.849s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.920 ms
+SEQ = 126 TIME[615.857s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.33 ms
+SEQ = 127 TIME[620.861s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.752 ms
+SEQ = 128 TIME[625.275s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.868 ms
+SEQ = 129 TIME[630.280s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.568 ms
+SEQ = 130 TIME[635.284s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.706 ms
+SEQ = 131 TIME[640.289s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.39 ms
+SEQ = 132 TIME[645.311s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.874 ms
+SEQ = 133 TIME[650.330s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.07 ms
+SEQ = 134 TIME[654.755s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.781 ms
+SEQ = 135 TIME[659.794s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.795 ms
+SEQ = 136 TIME[664.850s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=3.45 ms
+SEQ = 137 TIME[669.967s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=2.71 ms
+SEQ = 138 TIME[675.058s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.05 ms
+SEQ = 139 TIME[680.119s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.900 ms
+SEQ = 140 TIME[685.201s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.727 ms
+SEQ = 141 TIME[689.650s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.751 ms
+SEQ = 142 TIME[694.660s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.813 ms
+SEQ = 143 TIME[699.668s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.00 ms
+SEQ = 144 TIME[704.674s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.712 ms
+SEQ = 145 TIME[709.679s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.10 ms
+SEQ = 146 TIME[714.691s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.709 ms
+SEQ = 147 TIME[719.173s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=7.84 ms
+SEQ = 148 TIME[724.250s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.909 ms
+SEQ = 149 TIME[729.293s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.789 ms
+SEQ = 150 TIME[734.369s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.953 ms
+SEQ = 151 TIME[739.377s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.985 ms
+SEQ = 152 TIME[744.384s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.16 ms
+SEQ = 153 TIME[749.389s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.68 ms
+SEQ = 154 TIME[753.993s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=144 ms
+SEQ = 155 TIME[758.997s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.01 ms
+SEQ = 156 TIME[764.009s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=2.48 ms
+SEQ = 157 TIME[769.018s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.953 ms
+SEQ = 158 TIME[774.026s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.642 ms
+SEQ = 159 TIME[779.032s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.939 ms
+SEQ = 160 TIME[783.485s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.949 ms
+SEQ = 161 TIME[788.498s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=2.10 ms
+SEQ = 162 TIME[793.508s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.984 ms
+SEQ = 163 TIME[798.518s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.81 ms
+SEQ = 164 TIME[803.525s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.18 ms
+SEQ = 165 TIME[808.530s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.876 ms
+SEQ = 166 TIME[813.534s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.820 ms
+SEQ = 167 TIME[817.987s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.861 ms
+SEQ = 168 TIME[822.996s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.843 ms
+SEQ = 169 TIME[828.003s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.760 ms
+SEQ = 170 TIME[833.009s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.770 ms
+SEQ = 171 TIME[838.015s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=3.24 ms
+SEQ = 172 TIME[843.027s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.834 ms
+SEQ = 173 TIME[847.505s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=16.9 ms
+SEQ = 174 TIME[852.514s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.04 ms
+SEQ = 175 TIME[857.521s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.526 ms
+SEQ = 176 TIME[862.527s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.92 ms
+SEQ = 177 TIME[867.531s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.754 ms
+SEQ = 178 TIME[872.542s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.673 ms
+SEQ = 179 TIME[877.005s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.07 ms
+SEQ = 180 TIME[882.029s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.692 ms
+SEQ = 181 TIME[887.086s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.938 ms
+SEQ = 182 TIME[892.125s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.04 ms
+SEQ = 183 TIME[897.129s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.515 ms
+SEQ = 184 TIME[902.142s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.78 ms
+SEQ = 185 TIME[907.223s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.974 ms
+SEQ = 186 TIME[911.726s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.822 ms
+SEQ = 187 TIME[916.807s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.797 ms
+SEQ = 188 TIME[921.817s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.23 ms
+SEQ = 189 TIME[926.955s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=131 ms
+SEQ = 190 TIME[931.964s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.14 ms
+SEQ = 191 TIME[936.970s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.833 ms
+SEQ = 192 TIME[941.609s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=204 ms
+SEQ = 193 TIME[946.615s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.813 ms
+SEQ = 194 TIME[951.620s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.61 ms
+SEQ = 195 TIME[956.633s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.754 ms
+SEQ = 196 TIME[961.641s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.920 ms
+SEQ = 197 TIME[966.650s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.891 ms
+SEQ = 198 TIME[971.655s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.15 ms
+SEQ = 199 TIME[976.102s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.870 ms
+SEQ = 200 TIME[981.113s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.20 ms
+SEQ = 201 TIME[986.125s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=3.64 ms
+SEQ = 202 TIME[991.133s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.02 ms
+SEQ = 203 TIME[996.139s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.812 ms
+SEQ = 204 TIME[1001.144s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.940 ms
+SEQ = 205 TIME[1005.609s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.20 ms
+SEQ = 206 TIME[1010.621s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=2.15 ms
+SEQ = 207 TIME[1015.629s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.748 ms
+SEQ = 208 TIME[1020.636s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.764 ms
+SEQ = 209 TIME[1025.642s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.52 ms
+SEQ = 210 TIME[1030.646s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.865 ms
+SEQ = 211 TIME[1035.657s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.70 ms
+SEQ = 212 TIME[1040.115s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.852 ms
+SEQ = 213 TIME[1045.123s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.06 ms
+SEQ = 214 TIME[1050.129s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.484 ms
+SEQ = 215 TIME[1055.133s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.872 ms
+SEQ = 216 TIME[1060.145s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.855 ms
+SEQ = 217 TIME[1065.155s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.612 ms
+SEQ = 218 TIME[1069.614s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=2.41 ms
+SEQ = 219 TIME[1074.622s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.875 ms
+SEQ = 220 TIME[1079.628s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.02 ms
+SEQ = 221 TIME[1084.633s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.754 ms
+SEQ = 222 TIME[1089.639s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.60 ms
+SEQ = 223 TIME[1094.643s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.15 ms
+SEQ = 224 TIME[1099.100s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.914 ms
+SEQ = 225 TIME[1104.106s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.769 ms
+SEQ = 226 TIME[1109.111s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.43 ms
+SEQ = 227 TIME[1114.119s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.839 ms
+SEQ = 228 TIME[1119.125s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.863 ms
+SEQ = 229 TIME[1124.129s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.720 ms
+SEQ = 230 TIME[1129.137s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.811 ms
+SEQ = 231 TIME[1133.663s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.966 ms
+SEQ = 232 TIME[1138.751s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.887 ms
+SEQ = 233 TIME[1143.828s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.19 ms
+SEQ = 234 TIME[1148.914s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.696 ms
+SEQ = 235 TIME[1153.988s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.844 ms
+SEQ = 236 TIME[1159.003s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.548 ms
+SEQ = 237 TIME[1163.533s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.750 ms
+SEQ = 238 TIME[1168.630s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=7.24 ms
+SEQ = 239 TIME[1173.701s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.944 ms
+SEQ = 240 TIME[1178.804s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=16.9 ms
+SEQ = 241 TIME[1183.864s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.671 ms
+SEQ = 242 TIME[1188.880s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.13 ms
+SEQ = 243 TIME[1193.961s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.656 ms
+SEQ = 244 TIME[1198.487s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.688 ms
+SEQ = 245 TIME[1203.554s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.805 ms
+SEQ = 246 TIME[1208.641s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.745 ms
+SEQ = 247 TIME[1213.706s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.22 ms
+SEQ = 248 TIME[1218.717s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.80 ms
+SEQ = 249 TIME[1223.778s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.756 ms
+SEQ = 250 TIME[1228.300s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.08 ms
+SEQ = 251 TIME[1233.332s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.700 ms
+SEQ = 252 TIME[1238.459s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.707 ms
+SEQ = 253 TIME[1243.522s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.741 ms
+SEQ = 254 TIME[1248.530s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.737 ms
+SEQ = 255 TIME[1253.580s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.34 ms
+SEQ = 256 TIME[1258.122s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.02 ms
+SEQ = 257 TIME[1263.138s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.887 ms
+SEQ = 258 TIME[1268.217s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.953 ms
+SEQ = 259 TIME[1273.247s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.693 ms
+SEQ = 260 TIME[1278.352s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.75 ms
+SEQ = 261 TIME[1283.411s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.945 ms
+SEQ = 262 TIME[1288.496s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=8.32 ms
+SEQ = 263 TIME[1293.034s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.02 ms
+SEQ = 264 TIME[1298.121s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.738 ms
+SEQ = 265 TIME[1303.166s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.10 ms
+SEQ = 266 TIME[1308.254s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.11 ms
+SEQ = 267 TIME[1313.341s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.952 ms
+SEQ = 268 TIME[1318.429s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.819 ms
+SEQ = 269 TIME[1322.939s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.69 ms
+SEQ = 270 TIME[1328.020s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.00 ms
+SEQ = 271 TIME[1333.061s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.97 ms
+SEQ = 272 TIME[1338.150s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.36 ms
+SEQ = 273 TIME[1343.237s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.08 ms
+SEQ = 274 TIME[1348.325s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.723 ms
+SEQ = 275 TIME[1352.815s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.915 ms
+SEQ = 276 TIME[1357.842s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.882 ms
+SEQ = 277 TIME[1362.876s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.894 ms
+SEQ = 278 TIME[1367.964s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.731 ms
+SEQ = 279 TIME[1373.047s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.907 ms
+SEQ = 280 TIME[1378.134s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.771 ms
+SEQ = 281 TIME[1383.166s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.872 ms
+SEQ = 282 TIME[1387.714s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.72 ms
+SEQ = 283 TIME[1392.744s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.89 ms
+SEQ = 284 TIME[1397.838s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.02 ms
+SEQ = 285 TIME[1402.918s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.732 ms
+SEQ = 286 TIME[1408.005s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.931 ms
+SEQ = 287 TIME[1413.032s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.64 ms
+SEQ = 288 TIME[1417.511s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.10 ms
+SEQ = 289 TIME[1422.529s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.08 ms
+SEQ = 290 TIME[1427.617s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.864 ms
+SEQ = 291 TIME[1432.693s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.981 ms
+SEQ = 292 TIME[1437.782s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=3.07 ms
+SEQ = 293 TIME[1442.802s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.826 ms
+SEQ = 294 TIME[1447.904s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=16.2 ms
+SEQ = 295 TIME[1452.380s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.07 ms
+SEQ = 296 TIME[1457.467s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.794 ms
+SEQ = 297 TIME[1462.540s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.02 ms
+SEQ = 298 TIME[1467.618s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.771 ms
+SEQ = 299 TIME[1472.631s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.523 ms
+SEQ = 300 TIME[1477.722s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.767 ms
+SEQ = 301 TIME[1482.201s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.955 ms
+SEQ = 302 TIME[1487.292s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.614 ms
+SEQ = 303 TIME[1492.351s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.967 ms
+SEQ = 304 TIME[1497.436s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=4.91 ms
+SEQ = 305 TIME[1502.442s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.872 ms
+SEQ = 306 TIME[1507.530s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.50 ms
+SEQ = 307 TIME[1512.016s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.60 ms
+SEQ = 308 TIME[1517.070s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.00 ms
+SEQ = 309 TIME[1522.140s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.976 ms
+SEQ = 310 TIME[1527.234s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.22 ms
+SEQ = 311 TIME[1532.331s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.789 ms
+SEQ = 312 TIME[1537.422s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.910 ms
+SEQ = 313 TIME[1542.509s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.69 ms
+SEQ = 314 TIME[1547.049s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=5.35 ms
+SEQ = 315 TIME[1552.101s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.51 ms
+SEQ = 316 TIME[1557.222s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.68 ms
+SEQ = 317 TIME[1562.327s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.56 ms
+SEQ = 318 TIME[1567.389s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.20 ms
+SEQ = 319 TIME[1572.467s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.43 ms
+SEQ = 320 TIME[1576.981s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.32 ms
+SEQ = 321 TIME[1582.011s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.955 ms
+SEQ = 322 TIME[1587.092s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.03 ms
+SEQ = 323 TIME[1592.152s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.40 ms
+SEQ = 324 TIME[1597.243s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.17 ms
+SEQ = 325 TIME[1602.334s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.790 ms
+SEQ = 326 TIME[1606.871s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.30 ms
+SEQ = 327 TIME[1611.890s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.52 ms
+SEQ = 328 TIME[1616.962s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.60 ms
+SEQ = 329 TIME[1622.058s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.48 ms
+SEQ = 330 TIME[1627.113s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.46 ms
+SEQ = 331 TIME[1632.186s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.905 ms
+SEQ = 332 TIME[1637.244s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=2.11 ms
+SEQ = 333 TIME[1641.829s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.88 ms
+SEQ = 334 TIME[1646.886s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.93 ms
+SEQ = 335 TIME[1651.955s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.35 ms
+SEQ = 336 TIME[1657.019s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.776 ms
+SEQ = 337 TIME[1662.104s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.868 ms
+SEQ = 338 TIME[1667.168s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.14 ms
+SEQ = 339 TIME[1671.713s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.903 ms
+SEQ = 340 TIME[1676.774s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.33 ms
+SEQ = 341 TIME[1681.860s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.73 ms
+SEQ = 342 TIME[1686.920s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.09 ms
+SEQ = 343 TIME[1692.005s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.49 ms
+SEQ = 344 TIME[1697.064s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.49 ms
+SEQ = 345 TIME[1702.129s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.39 ms
+SEQ = 346 TIME[1706.656s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.60 ms
+SEQ = 347 TIME[1711.741s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.919 ms
+SEQ = 348 TIME[1716.796s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.12 ms
+SEQ = 349 TIME[1721.881s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.911 ms
+SEQ = 350 TIME[1726.934s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.56 ms
+SEQ = 351 TIME[1731.998s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.54 ms
+SEQ = 352 TIME[1736.523s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=0.832 ms
+SEQ = 353 TIME[1741.610s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.76 ms
+SEQ = 354 TIME[1746.659s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.13 ms
+SEQ = 355 TIME[1751.746s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.68 ms
+SEQ = 356 TIME[1756.794s] STATUS: SUCCESS
+    64 bytes from 192.168.1.225: icmp_seq=1 ttl=63 time=1.56 ms
